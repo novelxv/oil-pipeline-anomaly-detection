@@ -1,0 +1,9 @@
+{
+  "total_samples": 6480000,
+  "normal_samples": 5973651,
+  "leak_anomalies": 129360,
+  "operational_anomalies": 376989,
+  "pipelines": 5,
+  "duration_days": 30.0,
+  "sampling_rate_seconds": 2
+}
